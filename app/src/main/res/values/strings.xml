@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_booka">booka</string>
+    <string name="public_book">Public Book</string>
+    <string name="name_of_the_author">name of the author</string>
+    <string name="name_of_the_book">name of the book</string>
+    <string name="save">Save</string>
+    <string name="todo">TODO</string>
+    <string name="a">A</string>
+    <string name="create_book">create book</string>
+    <string name="name_of_book">Name of book</string>
+    <string name="author_name">Author name</string>
+    <string name="photo">TODO</string>
+    <string name="photo_image">photo image</string>
+    <string name="add">Add</string>
+    <string name="add_page">add page</string>
+</resources>
